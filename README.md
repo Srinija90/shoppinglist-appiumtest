@@ -7,6 +7,7 @@ Appium test frame work to test the Oi Shopping List
 * jdk (>=1.8 required)
 * maven (>=3.0.5 required)
 * Android sdk and tools (required)
+* Please change the capabilities accordingly in the base test to run it on your devices. https://github.com/Srinija90/shoppinglist-appiumtest/blob/master/src/test/java/Base/BaseTest.java#L33
 
 
 ### Setup
