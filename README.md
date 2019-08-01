@@ -23,7 +23,7 @@ Appium test frame work to test the Oi Shopping List
 
 ### Sample report
 
-https://raw.githubusercontent.com/Srinija90/shoppinglist-appiumtest/master/report-sample.png
+![Sample report](https://raw.githubusercontent.com/Srinija90/shoppinglist-appiumtest/master/report-sample.png)
 
 ### Sample run
 
