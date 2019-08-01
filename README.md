@@ -23,6 +23,6 @@ Appium test frame work to test the Oi Shopping List
 
 ### Sample report
 
-/Users/srinija/eclipse-workspace/_10/src/main/report-sample.png
+/Users/srinija/eclipse-workspace/_10/report-sample.png
 
 ### Sample run
