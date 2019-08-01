@@ -12,7 +12,7 @@ Appium test frame work to test the Oi Shopping List
 
 ### Setup
 ```
-    mvn install --skiptests
+    mvn install -DskipTests
 ```
 
 ### Run tests
