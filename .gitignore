@@ -1,0 +1,7 @@
+output
+test-output
+.DS_Store
+reports/*
+target/*
+/target/
+.idea/workspace.xml
