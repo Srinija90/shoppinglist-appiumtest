@@ -27,4 +27,6 @@ Appium test frame work to test the Oi Shopping List
 
 ### Sample run
 
+Please click the link for video
+
 https://youtu.be/IkTkgFLwjcc
