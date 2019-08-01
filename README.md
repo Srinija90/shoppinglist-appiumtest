@@ -27,3 +27,4 @@ https://raw.githubusercontent.com/Srinija90/shoppinglist-appiumtest/master/repor
 
 ### Sample run
 
+https://youtu.be/IkTkgFLwjcc
